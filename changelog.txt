@@ -1,0 +1,12 @@
+fCorpo 1.0.2, 2016-02-13
+------------------------
+- FontAwesome update
+- bug fixes
+
+fCorpo 1.0.1, 2015-10-10
+------------------------
+- use customizer instead of admin options page
+
+fBiz 1.0.0, 2015-04-13
+------------------------
+- Initial release
